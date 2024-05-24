@@ -1,0 +1,2 @@
+../HALL/seven_segmnet.c:11:6:HAL_SEVEN_SEG_init	16	static
+../HALL/seven_segmnet.c:43:6:HAL_SEVEN_SEG_Write	16	static

@@ -1,0 +1,7 @@
+../Tasks/Admin_Tasks.c:11:6:Check_Admin_Password	5
+../Tasks/Admin_Tasks.c:72:6:admin_Tasks	5
+../Tasks/Admin_Tasks.c:154:6:Add_ID	5
+../Tasks/Admin_Tasks.c:202:6:Delete_ID	1
+../Tasks/Admin_Tasks.c:206:6:Delete_IDs	1
+../Tasks/Admin_Tasks.c:210:6:View_IDs	3
+../Tasks/Admin_Tasks.c:227:5:find_ID	3

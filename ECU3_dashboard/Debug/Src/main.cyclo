@@ -1,0 +1,6 @@
+../Src/main.c:73:6:Clock_Init	1
+../Src/main.c:85:5:main	2
+../Src/main.c:107:6:ECUs_EXTI_init	1
+../Src/main.c:129:6:ECU3_SPI_Init	1
+../Src/main.c:191:6:ECU1_start_Verifying_Entered_Car	5
+../Src/main.c:232:6:ECU2_start_Verifying_Exit_Car	5

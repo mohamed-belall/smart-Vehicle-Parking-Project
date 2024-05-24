@@ -1,0 +1,11 @@
+../HALL/lcd_driver.c:12:6:delay_ms	3
+../HALL/lcd_driver.c:19:6:LCD_Init	1
+../HALL/lcd_driver.c:93:6:LCD_Clear_Screen	1
+../HALL/lcd_driver.c:98:6:LCD_Send_Command	1
+../HALL/lcd_driver.c:142:6:LCD_Send_Character	1
+../HALL/lcd_driver.c:188:6:LCD_Send_String	6
+../HALL/lcd_driver.c:219:6:LCD_Kick	1
+../HALL/lcd_driver.c:229:6:LCD_Check_Is_Busy	1
+../HALL/lcd_driver.c:282:6:LCD_gotoXY	9
+../HALL/lcd_driver.c:305:6:LCD_Display_Number	1
+../HALL/lcd_driver.c:313:6:LCD_Display_Real_Number	3
